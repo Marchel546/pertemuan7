@@ -22,9 +22,8 @@ MyTaskList adalah aplikasi task manager dinamis yang memungkinkan pengguna untuk
 - [x] **[BONUS] Profesional UI:** Tema gelap yang rapi dan responsif.
 
 ## 📸 Screenshot Aplikasi
-*(Letakkan file screenshot di folder project dan panggil disini)*
 ![Screenshot 1](/./preview1.jpeg)
-*(Note: Replace dengan nama file gambar yang asli)*
+![Screenshot](/./preview2.jpeg)
 
 ## 🚀 Cara Menjalankan Project
 1. Clone repository ini.
