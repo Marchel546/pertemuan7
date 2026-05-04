@@ -23,7 +23,7 @@ MyTaskList adalah aplikasi task manager dinamis yang memungkinkan pengguna untuk
 
 ## 📸 Screenshot Aplikasi
 *(Letakkan file screenshot di folder project dan panggil disini)*
-![Screenshot 1](/./preview1.jpg)
+![Screenshot 1](/./preview1.jpeg)
 *(Note: Replace dengan nama file gambar yang asli)*
 
 ## 🚀 Cara Menjalankan Project
